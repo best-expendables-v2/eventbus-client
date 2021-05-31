@@ -1,7 +1,7 @@
 # EventBus client library
 
 ```go
-import "bitbucket.org/gank-global/eventbusclient"
+import "github.com/best-expendables-v2/eventbus-client"
 ```
 
 ## Usage
