@@ -9,6 +9,8 @@ github.com/best-expendables-v2/newrelic-context v0.0.0-20210531153227-aaf24a1659
 github.com/best-expendables-v2/newrelic-context v0.0.0-20210531153227-aaf24a1659cb/go.mod h1:lVtu4G6GzIrES+jNKY8uTlJspMW4OiJu+GDBE4PUeC8=
 github.com/best-expendables-v2/trace v0.0.0-20210531152255-f77654b9cda3 h1:rHi0C+2d4vosGXQU4WFvMmV7gjCoVpM4JUDbDDybvFY=
 github.com/best-expendables-v2/trace v0.0.0-20210531152255-f77654b9cda3/go.mod h1:lD6Kpfm+CyQRBVu9M6Te7iWLciVf5+mnsJHSM2c8QKk=
+github.com/best-expendables-v2/trace v0.0.0-20211204041906-2f9d02678b42 h1:a146kW7pDM84LU0sI7AMWQ1V6i9LJwAYAiZfSo9lbw4=
+github.com/best-expendables-v2/trace v0.0.0-20211204041906-2f9d02678b42/go.mod h1:lD6Kpfm+CyQRBVu9M6Te7iWLciVf5+mnsJHSM2c8QKk=
 github.com/best-expendables-v2/user-service-client v0.0.0-20210531152935-8a9617716e79 h1:69ttkRSUIO7Kvg2MkzW01cYDfsyeqdpRWyHr8eCMZOg=
 github.com/best-expendables-v2/user-service-client v0.0.0-20210531152935-8a9617716e79/go.mod h1:uS28nyoWEuWslDHaszCiWBF4UZVSivUoW6+TopoOk4M=
 github.com/cespare/xxhash/v2 v2.1.1 h1:6MnRN8NT7+YBpUIWxHtefFZOKTAPgGjpQSxqLNn0+qY=
